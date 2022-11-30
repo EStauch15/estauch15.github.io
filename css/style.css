@@ -196,5 +196,9 @@ footer div {
   }
   img {
     height: 50vh;
+    object-position: top;
+  }
+  iframe {
+    height: 50vh;
   }
 }
